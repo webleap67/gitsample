@@ -1,0 +1,27 @@
+F.A.Q for Arrival (Coming Soon Theme)
+As always this theme is FREE!
+
+So, I'm writing this theme FAQ and I haven't released it yet, so if you have additional questions, drop me a line at info@webleap.it
+
+------------------------------------
+Q: HOW DO I CHANGE THE BACKGROUNDS?
+A: Well dont yell :)
+
+The background are controlled from file /js/scripts.js
+around line 8.
+
+Q: How do I change the date on the countdown
+A: It's controlled from file /js/scripts.js  on line 17
+
+Q: What font are you using?
+A: The font name is Droid Sans, via Google Font. See http://fonts.googleapis.com/
+
+Q: I like these background, can I use them
+A: Yes
+
+
+Hint* keep your logo background transparent
+
+
+------------------------------------
+Like Webleap on Facebook https://www.facebook.com/pages/Webleap/152506201601194
