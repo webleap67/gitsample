@@ -1,3 +1,3 @@
 # gitsample
 
-Questo è un esempio
+Questo è un esempio stupido
